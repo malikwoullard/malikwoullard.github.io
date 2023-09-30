@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.20)  23 SEP 2023 10:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.20)  30 SEP 2023 13:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -462,6 +462,29 @@ Missing character: There is no p in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ! in font nullfont!
 Missing character: There is no < in font nullfont!
 Missing character: There is no / in font nullfont!
 Missing character: There is no p in font nullfont!
@@ -501,248 +524,374 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.26 
+l.25 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 12--26
+Overfull \hbox (20.0pt too wide) in paragraph at lines 12--25
 []
  []
 
 
-Overfull \hbox (69.40353pt too wide) in paragraph at lines 12--26
+Overfull \hbox (69.40353pt too wide) in paragraph at lines 12--25
 []\OT1/cmr/m/n/10 525\OML/cmm/m/it/10 :jpeg\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 al
 t \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (209.77191pt too wide) in paragraph at lines 12--26
+Overfull \hbox (209.77191pt too wide) in paragraph at lines 12--25
 \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 PortraitgenerouslytakenbyKayMaw\OT1/cmr/m/n/1
 0 "\OML/cmm/m/it/10 style \OT1/cmr/m/n/10 =[]
  []
 
 
-Overfull \hbox (27.5591pt too wide) in paragraph at lines 12--26
+Overfull \hbox (27.5591pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 max \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (31.00644pt too wide) in paragraph at lines 12--26
+Overfull \hbox (31.00644pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 width \OT1/cmr/m/n/10 :
  []
 
 
-Overfull \hbox (25.55556pt too wide) in paragraph at lines 12--26
+Overfull \hbox (25.55556pt too wide) in paragraph at lines 12--25
 \OT1/cmr/m/n/10 100 \OML/cmm/m/it/10 <
  []
 
 
-Overfull \hbox (51.37625pt too wide) in paragraph at lines 12--26
+Overfull \hbox (51.37625pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 =center ><
  []
 
 
-Overfull \hbox (15.58676pt too wide) in paragraph at lines 12--26
+Overfull \hbox (15.58676pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 p >
  []
 
 
-Overfull \hbox (766.20107pt too wide) in paragraph at lines 12--26
-\OML/cmm/m/it/10 Ispecializeineconomics; mainlyappliedmicroandstratification; a
-ndIalsohavesomemathematicstraining:IgraduatedsummacumlaudefromHowardUniversityi
-n\OT1/cmr/m/n/10 2022\OML/cmm/m/it/10 witha <
+Overfull \hbox (479.78653pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 Ispecializeineconomics; mainlydoappliedmicroandstratification;
+ andalsohavesomemathematicstraining: <
  []
 
 
-Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--26
+Overfull \hbox (28.36458pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 =p ><
+ []
+
+
+Overfull \hbox (15.58676pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 p >
+ []
+
+
+Overfull \hbox (301.8416pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 IgraduatedsummacumlaudefromHowardUniversityin\OT1/cmr/m/n/10 2
+022\OML/cmm/m/it/10 witha <
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (33.25807pt too wide) in paragraph at lines 12--26
+Overfull \hbox (33.25807pt too wide) in paragraph at lines 12--25
 \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 :
  []
 
 
-Overfull \hbox (287.98056pt too wide) in paragraph at lines 12--26
+Overfull \hbox (287.98056pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 ==issuu:com=bisonbeat=docs=\OT1/cmr/m/n/10 2022[]\OML/cmm/m/it
 /10 raduation[]eremony[]ooklet\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (26.14233pt too wide) in paragraph at lines 12--26
+Overfull \hbox (26.14233pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 BA <
  []
 
 
-Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--26
+Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 =a >
  []
 
 
-Overfull \hbox (315.90312pt too wide) in paragraph at lines 12--26
-\OML/cmm/m/it/10 ineconomicsalongwithamathminorandanappliedmathconcentration:\O
-T1/cmr/m/n/10 (\OML/cmm/m/it/10 <
+Overfull \hbox (314.79193pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ineconomicsalongwithamathminorandanappliedmathconcentration: <
+
  []
 
 
-Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--26
+Overfull \hbox (28.36458pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 =p ><
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (149.00082pt too wide) in paragraph at lines 12--26
+Overfull \hbox (149.00082pt too wide) in paragraph at lines 12--25
 \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 senior[]hesis[]resentation:pdf\OT1/cmr/m/n/10
  " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (42.19054pt too wide) in paragraph at lines 12--26
-\OML/cmm/m/it/10 Linked <
+Overfull \hbox (33.78238pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 Here <
  []
 
 
-Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--26
+Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 =a >
  []
 
 
-Overfull \hbox (490.04729pt too wide) in paragraph at lines 12--26
+Overfull \hbox (389.80276pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 isapresentationofmyhonorsthesisondirectstockmarketparticipatio
-nandraceintheUS:\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 Iamalsoanalumofthe <
+nandraceintheUS: <
  []
 
 
-Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--26
+Overfull \hbox (15.58676pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 p >
+ []
+
+
+Overfull \hbox (106.91113pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 Iamalsoanalumofthe <
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (33.25807pt too wide) in paragraph at lines 12--26
+Overfull \hbox (33.25807pt too wide) in paragraph at lines 12--25
 \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 :
  []
 
 
-Overfull \hbox (168.44962pt too wide) in paragraph at lines 12--26
+Overfull \hbox (168.44962pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 ==www:aeaweb:org=content=file\OT1/cmr/m/n/10 ?\OML/cmm/m/it/10
  id \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (40.5556pt too wide) in paragraph at lines 12--26
+Overfull \hbox (40.5556pt too wide) in paragraph at lines 12--25
 \OT1/cmr/m/n/10 18308" \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (30.55557pt too wide) in paragraph at lines 12--26
+Overfull \hbox (30.55557pt too wide) in paragraph at lines 12--25
 \OT1/cmr/m/n/10 2022 \OML/cmm/m/it/10 <
  []
 
 
-Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--26
+Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 =a >
  []
 
 
-Overfull \hbox (406.466pt too wide) in paragraph at lines 12--26
+Overfull \hbox (405.35481pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 AmericanEconomicAssociationSummerTrainingProgram; hostedatHowa
-rdUniversity:\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 <
+rdUniversity: <
  []
 
 
-Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--26
+Overfull \hbox (28.36458pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 =p ><
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (222.82787pt too wide) in paragraph at lines 12--26
+Overfull \hbox (222.82787pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 AEASP[]ERM[]APER[]RESENTATION:pdf >
  []
 
 
-Overfull \hbox (42.19054pt too wide) in paragraph at lines 12--26
-\OML/cmm/m/it/10 Linked <
+Overfull \hbox (33.78238pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 Here <
  []
 
 
-Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--26
+Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 =a >
  []
 
 
-Overfull \hbox (281.62454pt too wide) in paragraph at lines 12--26
-\OML/cmm/m/it/10 isapresentationofourfinalprojectontradebalancesandforeign \OMS
-/cmsy/m/n/10 ^^@
+Overfull \hbox (358.09978pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 isapresentation; withAbyMbaye; ofourfinalprojectontradebalance
+sandforeign \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (670.90546pt too wide) in paragraph at lines 12--26
-\OML/cmm/m/it/10 directinvestmentinselectedWestAfricaneconomies:\OT1/cmr/m/n/10
- )\OML/cmm/m/it/10 I[]vepreviouslyworkedattheFederalReserveBoard; theRichmondFe
-d; aswellastheNewYorkFed:\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 <
+Overfull \hbox (241.81418pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 directinvestmentinselectedWestAfricaneconomies: <
  []
 
 
-Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--26
+Overfull \hbox (15.58676pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 p >
+ []
+
+
+Overfull \hbox (411.01541pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 Formerly; IworkedaresearchassistantshipattheFederalReserveBoar
+doversixmonths; asa <
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (81.01598pt too wide) in paragraph at lines 12--26
+Overfull \hbox (33.25807pt too wide) in paragraph at lines 12--25
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (160.59317pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ==poverty:ucdavis:edu=post=malik \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (55.19685pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 woullard\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (23.55832pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 UC \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (72.81296pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 HBCUfellow <
+ []
+
+
+Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 =a >
+ []
+
+
+Overfull \hbox (32.45532pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 atUC \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (362.31018pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 Davisovertwosummers; aninternfortheFederalReserveBanksofNewYor
+kand <
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (33.25807pt too wide) in paragraph at lines 12--25
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (189.59314pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ==www:instagram:com=p=CDJb\OT1/cmr/m/n/10 7\OML/cmm/m/it/10 bD
+lRV \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (20.55554pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (56.59451pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 Richmond <
+ []
+
+
+Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 =a >
+ []
+
+
+Overfull \hbox (575.1898pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 overonesummerandsixmonths; respectively; aswellasaparticipanti
+ntwoHowardUniversityREUprogramsoveranacademicyear: <
+ []
+
+
+Overfull \hbox (28.36458pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 =p ><
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (81.01598pt too wide) in paragraph at lines 12--25
 \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 sep[]\OT1/cmr/m/n/10 023[]\OML/cmm/m/it/10 v:
 pdf\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (42.19054pt too wide) in paragraph at lines 12--26
-\OML/cmm/m/it/10 Linked <
+Overfull \hbox (33.78238pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 Here <
  []
 
 
-Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--26
+Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 =a >
  []
 
 
-Overfull \hbox (299.54189pt too wide) in paragraph at lines 12--26
-\OML/cmm/m/it/10 isarecentcurriculumvitae:\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 Tha
-nkyoufornavigatingtomywebsite: <
+Overfull \hbox (295.65298pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 isarecentcurriculumvitae:Thankyoufornavigatingtomywebsite: <
  []
 
 
-Overfull \hbox (28.36458pt too wide) in paragraph at lines 12--26
-\OML/cmm/m/it/10 =p ><
- []
-
-
-Overfull \hbox (10.55559pt too wide) in paragraph at lines 12--26
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 12--25
 \OT1/cmr/m/n/10 ! \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (18.33331pt too wide) in paragraph at lines 12--26
+Overfull \hbox (18.33331pt too wide) in paragraph at lines 12--25
 \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 <
  []
 
 
-Overfull \hbox (43.59845pt too wide) in paragraph at lines 12--26
+Overfull \hbox (43.59845pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 =center >
  []
 
 
-Overfull \hbox (33.88892pt too wide) in paragraph at lines 12--26
+Overfull \hbox (33.88892pt too wide) in paragraph at lines 12--25
 \OMS/cmsy/m/n/10 ^^@^^@ \OML/cmm/m/it/10 ><
  []
 
 
-Overfull \hbox (37.18933pt too wide) in paragraph at lines 12--26
+Overfull \hbox (37.18933pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 =div ><
  []
 
 
-Overfull \hbox (35.16087pt too wide) in paragraph at lines 12--26
+Overfull \hbox (35.16087pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 =body >$ 
  []
 
@@ -753,7 +902,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 <
+l.26 <
       /html>
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -775,9 +924,9 @@ Missing character: There is no > in font nullfont!
 Here is how much of TeX's memory you used:
  20 strings out of 478268
  656 string characters out of 5846346
- 294381 words of memory out of 5000000
+ 296408 words of memory out of 5000000
  18327 multiletter control sequences out of 15000+600000
  469259 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 18i,2n,12p,1124b,56s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 18i,2n,12p,1516b,56s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!
