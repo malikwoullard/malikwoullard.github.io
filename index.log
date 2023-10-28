@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.20)  30 SEP 2023 13:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.20)  28 OCT 2023 19:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -521,6 +521,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 18.
+! Misplaced alignment tab character &.
+l.21 ...ar.google.com/citations?user=zu6v6okAAAAJ&
+                                                  hl=en&oi=ao">Google Schola...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.21 ...gle.com/citations?user=zu6v6okAAAAJ&hl=en&
+                                                  oi=ao">Google Scholar</a>....
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -746,9 +766,9 @@ Overfull \hbox (15.58676pt too wide) in paragraph at lines 12--25
  []
 
 
-Overfull \hbox (411.01541pt too wide) in paragraph at lines 12--25
+Overfull \hbox (623.2171pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 Formerly; IworkedaresearchassistantshipattheFederalReserveBoar
-doversixmonths; asa <
+doverthecourseofsixmonthsaftercollege:Duringcollege; Iworkedasa <
  []
 
 
@@ -787,14 +807,9 @@ Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--25
  []
 
 
-Overfull \hbox (32.45532pt too wide) in paragraph at lines 12--25
-\OML/cmm/m/it/10 atUC \OMS/cmsy/m/n/10 ^^@
- []
-
-
-Overfull \hbox (362.31018pt too wide) in paragraph at lines 12--25
-\OML/cmm/m/it/10 Davisovertwosummers; aninternfortheFederalReserveBanksofNewYor
-kand <
+Overfull \hbox (499.63884pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 attheUniversityofCalifornia; Davisovertwosummers; aninternfort
+heFederalReserveBanksofNewYorkand <
  []
 
 
@@ -829,9 +844,243 @@ Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--25
  []
 
 
-Overfull \hbox (575.1898pt too wide) in paragraph at lines 12--25
+Overfull \hbox (526.40614pt too wide) in paragraph at lines 12--25
 \OML/cmm/m/it/10 overonesummerandsixmonths; respectively; aswellasaparticipanti
-ntwoHowardUniversityREUprogramsoveranacademicyear: <
+ntwoHowardUniversityREUsovermysenioryear: <
+ []
+
+
+Overfull \hbox (28.36458pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 =p ><
+ []
+
+
+Overfull \hbox (15.58676pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 p >
+ []
+
+
+Overfull \hbox (94.56677pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 Ihavebeenquotedin <
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (33.25807pt too wide) in paragraph at lines 12--25
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (126.9183pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ==thehilltoponline:com=\OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 s \OT
+1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (33.99037pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 malik \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (55.19685pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 woullard\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (60.62685pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 TheHilltop <
+ []
+
+
+Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 =a >
+ []
+
+
+Overfull \hbox (159.98547pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ; writtenforTheLiberato; astudent \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (208.59619pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 runpoliticalreview; aswellasconversedaloton <
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (33.25807pt too wide) in paragraph at lines 12--25
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (158.6337pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ==www:quora:com=profile=Malik \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (50.82422pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 Woullard \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (20.55554pt too wide) in paragraph at lines 12--25
+\OT1/cmr/m/n/10 1" \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (39.10812pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 Quora <
+ []
+
+
+Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 =a >
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 : <
+ []
+
+
+Overfull \hbox (28.36458pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 =p ><
+ []
+
+
+Overfull \hbox (15.58676pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 p >
+ []
+
+
+Overfull \hbox (207.00887pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 Researchmaterialsofminecanbefoundonthe <
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (33.25807pt too wide) in paragraph at lines 12--25
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (251.36073pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ==papers:ssrn:com=sol\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 =cf[]ev
+=AbsByAuth:cfm\OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 per[]d \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (50.55563pt too wide) in paragraph at lines 12--25
+\OT1/cmr/m/n/10 5680714" \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (154.28627pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 SocialScienceResearchNetwork <
+ []
+
+
+Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 =a >
+ []
+
+
+Overfull \hbox (25.8495pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ; on <
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (33.25807pt too wide) in paragraph at lines 12--25
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (187.11406pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ==www:researchgate:net=profile=Malik \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (58.60194pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 Woullard\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (73.80585pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ResearchGate <
+ []
+
+
+Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 =a >
+ []
+
+
+Overfull \hbox (64.24194pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ; aswellason <
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (33.25807pt too wide) in paragraph at lines 12--25
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (173.02138pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ==scholar:google:com=citations\OT1/cmr/m/n/10 ?\OML/cmm/m/it/1
+0 user \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (92.39366pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 zu\OT1/cmr/m/n/10 6\OML/cmm/m/it/10 v\OT1/cmr/m/n/10 6\OML/cmm
+/m/it/10 okAAAAJhl \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (29.50648pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 enoi \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (25.68864pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 ao\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (75.97827pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 GoogleScholar <
+ []
+
+
+Overfull \hbox (20.84142pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 =a >
+ []
+
+
+Overfull \hbox (13.3333pt too wide) in paragraph at lines 12--25
+\OML/cmm/m/it/10 : <
  []
 
 
@@ -924,9 +1173,9 @@ Missing character: There is no > in font nullfont!
 Here is how much of TeX's memory you used:
  20 strings out of 478268
  656 string characters out of 5846346
- 296408 words of memory out of 5000000
+ 300032 words of memory out of 5000000
  18327 multiletter control sequences out of 15000+600000
  469259 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 18i,2n,12p,1516b,56s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 18i,2n,12p,2208b,56s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!
